@@ -1,0 +1,10 @@
+欢迎使用"稽本(jipad)"
+软件数据存放在%appdata%\jipad中
+删除本文件夹即可删除本软件所有数据
+本程序已在Github开源
+https://github.com/hsz75/jipad
+关于本程序
+稽本(jipad)版本1.0
+本程序由hsz75编写
+https://hsz75.github.io
+感谢电脑菌的支持！
